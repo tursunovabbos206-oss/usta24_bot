@@ -1,0 +1,6 @@
+usta24.db
+bot.log
+__pycache__/
+*.pyc
+.env
+
